@@ -1,0 +1,8 @@
+C:\Users\Usuario\Desktop\_211073\_211073\bin\Debug\_211073.exe.config
+C:\Users\Usuario\Desktop\_211073\_211073\bin\Debug\_211073.exe
+C:\Users\Usuario\Desktop\_211073\_211073\bin\Debug\_211073.pdb
+C:\Users\Usuario\Desktop\_211073\_211073\obj\Debug\_211073.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\_211073\_211073\obj\Debug\_211073.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\Desktop\_211073\_211073\obj\Debug\_211073.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\_211073\_211073\obj\Debug\_211073.exe
+C:\Users\Usuario\Desktop\_211073\_211073\obj\Debug\_211073.pdb
